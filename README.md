@@ -1,3 +1,3 @@
 Waterloo Canadian Computing Competition (CCC) 
 
-https://www.cemc.uwaterloo.ca/contests/past_contests.html#ccc
+https://cemc.uwaterloo.ca/resources/past-contests?grade=All&academic_year=All&contest_category=29
